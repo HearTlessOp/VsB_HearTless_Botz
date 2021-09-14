@@ -9,7 +9,7 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
-<a href="https://t.me/TEAM_HEARTLESS_POLICE_OP"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/HeartlessBotSupport"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 <a href="https://t.me/TEAM_HEARTLESS_BOTS"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
@@ -35,7 +35,9 @@
         
 -----------------------------------------------
 
-### 🖤 CRADIT 💛
+### 👻 𝗖𝗿𝗲𝗱𝗶𝘁  👻
 
 [![telegram badge](https://img.shields.io/badge/𝘽ᴀᴅɴᴀᴍ𝙊ᴘ-30302f?style=for-the-badge&logo=telegram)](https://t.me/its_badnam)
+
+[![telegram badge](https://img.shields.io/badge/𝐒ʜɪᴋᴀʀɪ-30302f?style=for-the-badge&logo=telegram)](https://t.me/Lawless_Shikari)
 
