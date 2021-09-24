@@ -37,7 +37,7 @@
 
 ### 👻 𝗖𝗿𝗲𝗱𝗶𝘁  👻
 
-[![telegram badge](https://img.shields.io/badge/𝘽ᴀᴅɴᴀᴍ𝙊ᴘ-30302f?style=for-the-badge&logo=telegram)](https://t.me/its_badnam)
+[![telegram badge](https://img.shields.io/badge/𝘽ᴀᴅɴᴀᴍ𝙊ᴘ-30302f?style=for-the-badge&logo=telegram)](https://t.me/badnam_xD)
 
 [![telegram badge](https://img.shields.io/badge/𝐒ʜɪᴋᴀʀɪ-30302f?style=for-the-badge&logo=telegram)](https://t.me/Lawless_Shikari)
 
